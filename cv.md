@@ -8,14 +8,17 @@
 
 ---
 ### Briefly About Myself:
-#### 
+I’m in my third year of studies towards a bachelor's in computer Sciences and Physics, and I’m also a teacher at the Children’s Programming School.
+In my second year at the university, we studied the layout of the site, I liked it, I studied css and html, watched videos in YouTube.
+Accidentally found free courses from Rolling Scopes, I liked the idea of "Pay It Forward",  there are a lot of useful materials, there is an opportunity to communicate with like-minded people, motivates that there is a chance to get a job at EPAM in case of successful practice.
+Ready to learn and develop in the direction of Frontened. At this stage of my knowledge of English - A2, in the summer I want to start taking lessons in English.
 
 ---
 ### Skills:
 * HTML5, CSS3
 * Git, Github
 * VS Code, Eclipse IDE
-* Figma, Adobe Illustration
+* Figma, Adobe Illustration, Adobe Photoshop
 * Python basics
 * JavaScript Basics
 
@@ -49,10 +52,12 @@ Write a function that will take the number of petals of each flower and return t
 
 ### Courses:
 
-![image](/Certificates/Stepic.png)  
-![image](/Certificates/css.png)  
-![image](/Certificates/html.png)  
-![image](/Certificates/powershell.png)  
+* Git on [hexlet.io](https://ru.hexlet.io) (in process)
+* CSS, HTML on [code-basics.com](https://ru.code-basics.com) 
+* Python on [Stepik.org](https://stepik.org)
+
+<img src="https://user-images.githubusercontent.com/87063785/158774056-9044c8d4-3e14-415c-aacc-bc16d42c49c9.jpg" alt="Stepik" width="300"/>
+
 
 
 
