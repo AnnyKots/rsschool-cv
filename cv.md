@@ -30,7 +30,8 @@ Ready to learn and develop in the direction of Frontened. At this stage of my kn
 Write a function that will take the number of petals of each flower and return true if they are in love and false if they aren't.*
 
 
-```def lovefunc( flower1, flower2 ):
+```
+def lovefunc( flower1, flower2 ):
     if (flower1%2==0 and flower2%2!=0) or ((flower1%2!=0 and flower2%2==0)):
         return True
     else:
@@ -42,7 +43,8 @@ Write a function that will take the number of petals of each flower and return t
 *Clock shows h hours, m minutes and s seconds after midnight. Your task is to write a function which returns the time since midnight in milliseconds.*
 
 
-```def past(h, m, s):
+```
+def past(h, m, s):
     if  0<=h<=23 and 0 <= m <= 59 and 0 <= s <= 59:
         result = (h*60*60 + m*60 +s)*1000
         return result
