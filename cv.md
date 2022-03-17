@@ -43,7 +43,8 @@ def past(h, m, s):
 * CSS, HTML on [code-basics.com](https://ru.code-basics.com) 
 * Python on [Stepik.org](https://stepik.org)
 
-<img src="https://user-images.githubusercontent.com/87063785/158774056-9044c8d4-3e14-415c-aacc-bc16d42c49c9.jpg" alt="Stepik" width="300"/>
+<img src="https://user-images.githubusercontent.com/87063785/158774056-9044c8d4-3e14-415c-aacc-bc16d42c49c9.jpg" alt="Stepik" width="300"/>  
+
 
 
 
